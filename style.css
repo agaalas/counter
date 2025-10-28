@@ -1,0 +1,24 @@
+body{
+    background-color: #3d3b47;
+}
+
+.btn{
+   background-size: cover;
+   background-color: #3d3b47;
+   width: 300px;
+}
+
+.container{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.loco{
+    display: flex;
+    justify-content: center;
+}
+
+h1{
+    color: white;
+}
