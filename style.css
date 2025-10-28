@@ -6,6 +6,7 @@ body{
    background-size: cover;
    background-color: #3d3b47;
    width: 300px;
+    border: none;
 }
 
 .container{
